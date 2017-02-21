@@ -1,0 +1,7 @@
+*.a
+*.map
+*.sky
+symbols.c
+symbols.h
+.*swp
+obj_*
